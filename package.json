@@ -1,0 +1,27 @@
+{
+  "name": "node_rest_shopping_api",
+  "version": "1.0.0",
+  "description": "A node.js REST Api Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinaymandepudi/node_rest_shopping_api.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Abhinaya Krishna Mandepudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinaymandepudi/node_rest_shopping_api/issues"
+  },
+  "homepage": "https://github.com/abhinaymandepudi/node_rest_shopping_api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
